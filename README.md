@@ -1,3 +1,3 @@
 # Gestão de Segurança da Informção
 
-Repositório para estudo e elaboração de GSI a partir de documentos, procedimentos e boas práticas.
+Repositório para estudo, planejamento, elaboração e gestão de Segurança da Informação a partir de documentos, procedimentos e boas práticas.
